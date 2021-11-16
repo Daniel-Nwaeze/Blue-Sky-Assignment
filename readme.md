@@ -58,6 +58,7 @@ This folder was used to evaluate the environmental impacts of COVID-19 on mobili
 - AQL_ML_Prediction.png: visualise how well the ML model predicts time-series data
 - pollutants.png: view pollutant levels over time
 
+
 **NOTE:**
 The important visualisations have been included in **"Blue Sky Assignment"**
 
