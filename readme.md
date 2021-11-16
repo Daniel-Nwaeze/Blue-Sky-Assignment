@@ -59,5 +59,10 @@ This folder was used to evaluate the environmental impacts of COVID-19 on mobili
 - pollutants.png: view pollutant levels over time
 
 **NOTE:**
-The important visualisations have been included in **"Blue Sky - Summary Report"**
+The important visualisations have been included in **"Blue Sky Assignment"**
+
+- Results and Summary Report Slides:
+This folder contains:
+1. **Blue Sky Assignment (in .pdf/pptx):** This file contains the findings, details on the steps, visual and non-visual results extracted from the assignment
+2. **Blue Sky - Summary Report (in .pdf/pptx):** This file contains the required summary report requested in the assignment
 
